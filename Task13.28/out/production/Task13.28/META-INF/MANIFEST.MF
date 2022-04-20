@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Main-Class: ru.vsu.cs.vvp2021.g12.butovetskaya_s_i.task13.n28.Program
